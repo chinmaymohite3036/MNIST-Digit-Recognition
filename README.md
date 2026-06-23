@@ -50,10 +50,6 @@ Dense(256, ReLU)
 
 ↓
 
-Dropout(0.2)
-
-↓
-
 Dense(128, ReLU)
 
 ↓
